@@ -27,7 +27,8 @@ export const Content = styled.div`
     h1 {
       margin-bottom: 24px;
     }
-
+    
+    /*   
     input {
       background: #232129;
       border-radius: 10px;
@@ -61,6 +62,7 @@ export const Content = styled.div`
         background: ${shade(0.2, '#FF9000')}
       }
     }
+    */
 
     a {
       color: #F4EDE8;
