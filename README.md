@@ -19,9 +19,9 @@
 
 ## :floppy_disk: Instalando
 
->Executar na raiz do projeto o seguinte comando para instalar as dependências
->``yarn install``
->ou
+>Executar na raiz do projeto o seguinte comando para instalar as dependências<br>
+>``yarn install``<br>
+>ou<br>
 >``npm install``
 
 
