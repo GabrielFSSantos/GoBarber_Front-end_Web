@@ -3,16 +3,21 @@
 ![Developer](https://img.shields.io/badge/GabrielFSSantos-GoBarber_Front-end_Web)
 [![licence mit](https://img.shields.io/github/license/GabrielFSSantos/GoBarber_Front-end_Web)](https://github.com/GabrielFSSantos/GoBarber_Front-end_Web/blob/master/LICENSE)
 
-### Este repositório é referente ao front-end da aplicação.
+### :books:  Este repositório é referente ao front-end Web da aplicação.
 
-> :wrench:  Projeto criado para estudar e praticar autenticação, validação, redirecionamento, rotas da aplicação e usabilidade da aplicação. <br><br>
-> :books: O GoBarber, é uma aplicação para conectar barbeiros/cabeleireiros com seus clientes. Fazendo agendamentos de acordo com o que o profissional tem de dias e horários disponíveis. Desenvolvemos a aplicação do zero, com backend conectado ao banco de dados relacional(Postgres), web(ReacJS)e mobile(React Native).
+>Projeto criado para estudar e praticar conhecimentos de programação e para fins didáticos.
 
+## :rocket: Projeto
 
-## Requirements
+>O **GoBarber**, é uma aplicação para conectar barbeiros/cabeleireiros com seus clientes. Fazendo agendamentos de acordo com o que o profissional tem de dias e horários disponíveis. Desenvolvemos a aplicação do zero, com backend conectado ao banco de dados relacional(Postgres), web(ReacJS)e mobile(React Native).
+
+## 🎨 Layout
+>Você pode visualizar o layout do projeto no formato através deste [link](https://www.figma.com/file/BXCihtXXh9p37lGsENV614/GoBarber). Lembrando que você precisará ter uma conta [Figma](https://www.figma.com/).
+
+## :wrench: Requerimentos
 >Ter instalado pelo menos um gerenciador de pacotes do Node, [Npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/).
 
-## Installing
+## :floppy_disk: Instalando
 
 >Executar na raiz do projeto o seguinte comando para instalar as dependências
 ```sh
@@ -23,32 +28,33 @@ yarn install
 npm install
 ```
 
-## Use <a name="usage"></a>
+## 💻  Executando
 ```sh
 yarn start
 ```
 
-## Contributing
-> :information_desk_person: O projeto é de livre acesso e uso, então fique à-vontade para realizar um Fork e utilizar do mesmo, como também sugerir dicas e melhorias.
-> 
->  1. Faça um **fork** do projeto.
-> 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-> 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-> 4. Envie as suas alterações: `git push origin my-feature`
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
-
-## Tech
-> :space_invader:Softwares e tecnologias utilizadas para o desenvolvimento e uso do projeto:
+## :raising_hand: Contribuindo
+>O projeto é de livre acesso e uso, então fique à-vontade para realizar um Fork e utilizar do mesmo, como também sugerir dicas e melhorias.
 >
-* [React] - Ferramenta utilizada para o desenvolvimento front-end.
-* [Node.js] - Ferramenta utilizada para o desenvolvimento back-end.
-* [Typescript] - Ferramenta de tipagem utilizada para o desenvolvimento geral.
-* [React Router] - Ferramenta de Roteamento declarativo para React.js.
-* [VSCode] - Ótimo editor de texto.
-* [StackEdit] - Excelente editor de Markdown online.
+>1. Faça um **fork** do projeto.
+>2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+>3.Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+>4. Envie as suas alterações: `git push origin my-feature`
+>
+>Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
-## License
-[MIT License](https://github.com/GabrielFSSantos/GoBarber_Front-end_Web/blob/master/LICENSE)
+## :space_invader: Tecnologias
+> Softwares e tecnologias utilizadas para o desenvolvimento e uso do projeto:
+>
+>* [React] - Ferramenta utilizada para o desenvolvimento front-end.
+>* [Node.js] - Ferramenta utilizada para o desenvolvimento back-end.
+>* [Typescript] - Ferramenta de tipagem utilizada para o desenvolvimento geral.
+>* [React Router] - Ferramenta de Roteamento declarativo para React.js.
+>* [VSCode] - Ótimo editor de texto.
+>* [StackEdit] - Excelente editor de Markdown online.
+
+## :memo: Licença
+>Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 [React]: <https://reactjs.org>
 [Node.js]: <https://nodejs.org/>
