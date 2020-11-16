@@ -20,18 +20,13 @@
 ## :floppy_disk: Instalando
 
 >Executar na raiz do projeto o seguinte comando para instalar as dependências
-```sh
-yarn install
-```
+>``yarn install``
 >ou
-```sh
-npm install
-```
+>``npm install``
+
 
 ## 💻  Executando
-```sh
-yarn start
-```
+``yarn start``
 
 ## :raising_hand: Contribuindo
 >O projeto é de livre acesso e uso, então fique à-vontade para realizar um Fork e utilizar do mesmo, como também sugerir dicas e melhorias.
